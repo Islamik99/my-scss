@@ -1,0 +1,49 @@
+h1 {
+  color: green;
+}
+
+h1 {
+  color: blue;
+}
+
+strong {
+  color: aqua;
+}
+
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+ul, ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  vertical-align: middle;
+  -o-object-fit: fill;
+     object-fit: fill;
+}
+
+h1, h2, h3, h4 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+div {
+  color: yellow;
+}/*# sourceMappingURL=main.css.map */
